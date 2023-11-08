@@ -1,0 +1,23 @@
+/* Write your code here. */
+nav {
+  background-color: #9796f0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.scores-container {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+.nav-score-text {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 25px;
+}
+.logo {
+  height: 80px;
+}

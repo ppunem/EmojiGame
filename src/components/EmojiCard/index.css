@@ -1,0 +1,18 @@
+/* Write your code here. */
+.card-container {
+  background-color: #ffffff33;
+  border: 4px solid #ffffff33;
+  border-radius: 12px;
+  height: 160px;
+  width: 160px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.image {
+  height: 80px;
+}

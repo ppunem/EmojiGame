@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.bg {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emojis-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 750px;
+}
