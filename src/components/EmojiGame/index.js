@@ -51,7 +51,7 @@ class EmojiGame extends Component {
         }))
       }
     }
-    console.log(clickedEmojisList)
+    
   }
 
   shuffledEmojisList = () => {
